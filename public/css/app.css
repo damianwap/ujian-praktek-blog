@@ -1,0 +1,13 @@
+
+.input-description, .input-message{
+    resize: none;
+    height: 200px;
+}
+
+.blog-detail{
+    cursor: pointer;
+}
+
+.blog-detail:hover{
+    background-color: rgb(245, 245, 245);
+}
